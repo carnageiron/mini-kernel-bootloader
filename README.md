@@ -1,5 +1,7 @@
 # Mini Kernel Bootloader
 
+![mini Kernel Bootloader Demo](postimg.png)
+
 This repository contains the source code for a mini bootloader designed to load and execute a simple kernel written in assembly language. The bootloader provides the necessary functionality to initialize the system, load the kernel into memory, and transfer control to the kernel code.
 
 ## Features
